@@ -1,6 +1,6 @@
-.speech{font-family: Arial, Helvetica, sans-serif;font-size: smaller; color:black;}
+.speech{font-family: Arial, Helvetica, sans-serif;font-size: medium; color:black;}
 .direction{font-family: 'Times New Roman', Times, serif;font-size: medium;color: black;}
-.name{font-family: 'Courier New', Courier, monospace;font-size: x-large;color: black;}
+.name{font-family: 'Courier New', Courier, monospace;font-size: medium;color: black;}
 .direction:hover{
     background-color:bisque;
     color:antiquewhite;
