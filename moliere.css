@@ -3,7 +3,7 @@
 .name{font-family: 'Courier New', Courier, monospace;font-size: medium;color: black;}
 .direction:hover{
     background-color:bisque;
-    color:antiquewhite;
+    color:blue;
 }
 .ARM{
     color: aqua;
