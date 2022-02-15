@@ -5,12 +5,16 @@
     background-color:bisque;
     color:blue;
 }
+.name:hover{
+    text-shadow: 3px 4px 5px goldenrod
+}
 .ARM{
     color: aqua;
 }
 .HEN{
     color: blue;
 }
+
 table,td,th{
     border: 2px solid green ;
     margin: 1px solid green;
