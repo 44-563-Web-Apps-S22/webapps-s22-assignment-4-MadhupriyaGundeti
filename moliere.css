@@ -6,6 +6,7 @@
     color:blue;
 }
 .name:hover{
+    border: solid 2px grey;
     text-shadow: 3px 4px 5px goldenrod
 }
 .ARM{
@@ -32,4 +33,7 @@ td{
     text-align: left;
     padding: 1px;
 
+}
+tr:nth-child(even){
+    background-color: yellow;
 }
