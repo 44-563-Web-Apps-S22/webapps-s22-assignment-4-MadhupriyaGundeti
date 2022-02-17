@@ -37,3 +37,25 @@ td{
 tr:nth-child(even){
     background-color: yellow;
 }
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+}
+ul.navbar-horizontal li{
+    float:left;
+    color:#000;
+    background-color: azure;
+    
+}
+ul.navbar-horizontal a{
+    display:block;
+    padding:2px
+}
+ul.navbar-horizontal a:hover{
+    background-color: #555;
+    color:white;
+}
+.icon{
+    float: right;
+}
